@@ -1,7 +1,7 @@
 # Interfacing-a-Digital-INPUT-push-button-to-LPC2148-ARM-7-Microcontroller-
 ~~~
-Name : Shyam Naveen Raj
-Register No : 212221230099
+Name : a joans jay authers
+Register No : 212221240019
 Date of experiment : 06/11/2022
 
 Ex. No. : 3
